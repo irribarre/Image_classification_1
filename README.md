@@ -15,7 +15,7 @@ site « Stanford Dogs Dataset » (images et annotations d'ImageNet de 120 race
 <br/>
 ## 4) NOTEBOOKS :
 - NOTEBOOK D'EXPLORATION : **1_notebook_light.ipynb** (version avec des traces réduites) :<br/>
--- *Prétraitement des images : taille images, luminosité, contraste, rotation, bruit.<br/>
--- *Modélisation avec des CNNs (Convolutional Neural Networks) - 3 approches : mon propre réseau CNN, data augmentation, transfer learning.<br/>
+-- *Prétraitement des images* : taille images, luminosité, contraste, rotation, bruit.<br/>
+-- *Modélisation avec des CNNs* - 3 approches : mon propre réseau CNN, data augmentation, transfer learning.<br/>
 - NOTEBOOK DU PROGRAMME DE PREDICTION RACE SUR DONNEES DE TEST : **2_programme.ipynb**
 
